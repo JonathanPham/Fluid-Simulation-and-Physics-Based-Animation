@@ -9,3 +9,6 @@ Projects and Resources on Physics (Physically) based animation
 * **Physics based fluid simulation**.
 * [Publications on Physics based fluid simulation from RWTH Aachen](https://animation.rwth-aachen.de/publication/0560_0559_0558_051_0555_0554_0549_054/).
 * Book on [Fluid Engine Development](https://fluidenginedevelopment.org), it's [documentation](https://fluidenginedevelopment.org/documentation/) and [github code link for the book](https://github.com/doyubkim/fluid-engine-dev). **This book explains how to create a fluid simulation engine from scratch.**
+
+### Resources on Fluid Simulation:
+* [SPlisHSPlasH is an open-source library for the physically-based simulation of fluids from RWTH Aachen](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH).
