@@ -15,6 +15,7 @@ Projects and Resources on Physics (Physically) based animation
 ### Resources on Fluid Simulation:
 * [SPlisHSPlasH is an open-source library for the physically-based simulation of fluids from RWTH Aachen](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH).
 * [Fluid simulation publications](https://animation.rwth-aachen.de/publication/0560_0559_0558_051_0555_0554_0549_054/).
+* [Physics simulation in computer graphics lab in ETH Zurich](https://graphics.ethz.ch/research/physics_simulation/).
 
 ### Resources on related Computer Graphics and Physics based animation materials:
 * [Main resources page for the book Real-Time Rendering, Fourth Edition, by Tomas Akenine-Möller](http://www.realtimerendering.com/).
