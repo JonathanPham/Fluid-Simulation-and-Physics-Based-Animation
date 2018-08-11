@@ -11,6 +11,7 @@ Projects and Resources on Physics (Physically) based animation
 * Book on [Fluid Engine Development](https://fluidenginedevelopment.org), it's [documentation](https://fluidenginedevelopment.org/documentation/) and [github code link for the book](https://github.com/doyubkim/fluid-engine-dev). **This book explains how to create a fluid simulation engine from scratch.**
 * Worth mentioning twoice is [a nice resource website on physics based animation](http://www.physicsbasedanimation.com) and its [recommended collection of books](http://www.physicsbasedanimation.com/books-2/).
 * [Youtube : Physics based animation course videos from Ladislav Kavan](https://www.youtube.com/playlist?list=PL_a9tY9IhJuM2dIVCH_ZC0Pn5871eDY7_).
+* [Learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
 
 ### Resources on Fluid Simulation:
 * [SPlisHSPlasH is an open-source library for the physically-based simulation of fluids from RWTH Aachen](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH).
