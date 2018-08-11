@@ -1,2 +1,5 @@
-# Physically-Based-Animation
-Projects and Resources on Physically (Physics) based animation
+# Physics-Based-Animation
+Projects and Resources on Physics (Physically) based animation
+
+## Mostly referred to and visited and informative on physics based animation:
+* [Best collection and resource on Physics Based Animation](http://www.physicsbasedanimation.com).
