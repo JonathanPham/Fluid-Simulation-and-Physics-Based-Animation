@@ -7,8 +7,8 @@ Projects and Resources on Physics (Physically) based animation
 
 ### Since the area is pretty big, GET STARTED WITH:
 * **Physics based fluid simulation**.
-* Book on [Fluid Engine Development](https://fluidenginedevelopment.org), explains how to create a fluid simulation engine from scratch. It's [documentation](https://fluidenginedevelopment.org/documentation/) and [github code link for the book](https://github.com/doyubkim/fluid-engine-dev). **This book explains how to create a fluid simulation engine from scratch.**
 * **Must have course at** Coursera on [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes#syllabus). This course gives you an introduction to modeling methods and simulation tools for a wide range of natural phenomena. The different methodologies that will be presented here can be applied to very wide range of topics such as fluid motion, stellar dynamics, population evolution, ...
+* Book on [Fluid Engine Development](https://fluidenginedevelopment.org), explains how to create a fluid simulation engine from scratch. It's [documentation](https://fluidenginedevelopment.org/documentation/) and [github code link for the book](https://github.com/doyubkim/fluid-engine-dev). **This book explains how to create a fluid simulation engine from scratch.**
 
 ### Resources on Fluid Simulation:
 * [SPlisHSPlasH is an open-source library for the physically-based simulation of fluids from RWTH Aachen](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH).
