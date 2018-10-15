@@ -11,8 +11,9 @@ Projects and Resources on Physics (Physically) based animation
 * **Another must have course on** Computer Graphics at Khan academy - [Pixar in a box](https://www.khanacademy.org/partner-content/pixar) from Pixar. Pixar in a Box is a behind-the-scenes look at how Pixar artists do their jobs. You will be able to animate bouncing balls, build a swarm of robots, and make virtual fireworks explode. The subjects you learn in school — math, science, computer science, and humanities — are used every day to create amazing movies at Pixar. This collaboration between Pixar Animation Studios and Khan Academy is sponsored by Disney.
 * Book on [Fluid Engine Development](https://fluidenginedevelopment.org), explains how to create a fluid simulation engine from scratch. It's [documentation](https://fluidenginedevelopment.org/documentation/) and [github code link for the book](https://github.com/doyubkim/fluid-engine-dev). **This book explains how to create a fluid simulation engine from scratch.**
 
-## A beautiful book open sourced:
+## A beautiful book open sourced - for physically based rendering:
 * Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html).
+And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
 ### Resources on Fluid Simulation:
 * [SPlisHSPlasH is an open-source library for the physically-based simulation of fluids from RWTH Aachen](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH).
