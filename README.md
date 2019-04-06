@@ -31,4 +31,5 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 * [Physics based animation course from university of waterloo](https://cs.uwaterloo.ca/~c2batty/courses/CS888_2014/). Also go to its extra reading materials for other resources.
 * [Ke-Sen Huang's Home Page for realtime rendering resources](http://kesen.realtimerendering.com).
 
+### [Noteworthy open source libraries for visual computing](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#noteworthy-open-source-libraries-for-visual-computing).
 
