@@ -4,7 +4,7 @@ Projects and Resources on Physics (Physically) based animation
 ### Mostly referred to, visited and informative website on physics based animation:
 * [Best collection and resource on Physics Based Animation](http://www.physicsbasedanimation.com).
 
-### Get started with [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library), which is a foundation library to build your own graphical application or game engine itself.
+### Get started with [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library), which is a foundation library to build your own graphical application or game engine itself. Or, more well maintained and commercial grade C++ engine [G3D](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-any-graphical-application-with-the-g3d-).
 
 ### Since the area is pretty big, GET STARTED WITH:
 * **Physics based fluid simulation**.
